@@ -29,16 +29,16 @@
     </style>
 </head>
 
-<body class="login" style="background: #0077AD;">
+<body class="login">
 
     <div class="container sm:px-10">
         <div class="block grid-cols-2 gap-4">
-            <div
-                class="min-h-screen flex flex-col sm:justify-center items-center pt-6 sm:pt-0">
+            <div class="min-h-screen flex flex-col sm:justify-center items-center pt-6 sm:pt-0">
                 <div>
                     <a href="/">
                         <x-application-logo class="w-20 h-20 fill-current text-gray-500" />
                     </a>
+                    <h1 class="font-bold">Gestion de Caisse</h1>
                 </div>
 
                 <div
